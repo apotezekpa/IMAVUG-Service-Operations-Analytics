@@ -16,3 +16,21 @@ The analysis was designed to answer the following questions:
 - How well are departments meeting their SLA targets?
 - How long are customers waiting for service?
 - How do booking channel, department, and date affect operational performance?
+
+## Tools & Skills Used
+
+### Microsoft Excel
+- Data cleaning and preparation
+- Descriptive statistics
+- PivotTables and PivotCharts
+- Correlation and bivariate analysis
+- Exploratory data analysis
+
+### Power BI
+- Data transformation with Power Query
+- Data modeling
+- DAX measures
+- KPI development
+- Interactive dashboard design
+- Slicers and cross-filtering
+- Operational and revenue analysis
