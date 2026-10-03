@@ -40,3 +40,13 @@ The analysis was designed to answer the following questions:
 The interactive Power BI dashboard provides an overview of booking activity, revenue, operational performance, and SLA compliance across IMAVUG services and departments.
 
 ![IMAVUG Power BI Dashboard](IMAVUG_PowerBI_Dashboard.png)
+
+## Key Findings
+
+- Hair Treatment recorded the highest booking volume, with 370 bookings.
+- Bridal Makeup generated the highest revenue at approximately ₦8.1M, despite not having the highest booking volume.
+- Monthly booking activity generally increased from January through May, with May recording the highest volume before declining in June.
+- Barbershop recorded the highest completion rate at 89.30% and the lowest cancellation rate at 6.38%.
+- Spa recorded the lowest completion rate at 81.00% and the highest cancellation rate at 15.73%.
+- SLA performance varied across departments: Barbershop achieved 86.52%, Beauty Lounge 83.25%, and Spa 76.01%.
+- The difference between high-volume services and high-revenue services shows that booking volume alone does not determine revenue contribution
