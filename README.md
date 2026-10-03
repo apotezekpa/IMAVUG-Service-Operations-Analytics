@@ -50,3 +50,12 @@ The interactive Power BI dashboard provides an overview of booking activity, rev
 - Spa recorded the lowest completion rate at 81.00% and the highest cancellation rate at 15.73%.
 - SLA performance varied across departments: Barbershop achieved 86.52%, Beauty Lounge 83.25%, and Spa 76.01%.
 - The difference between high-volume services and high-revenue services shows that booking volume alone does not determine revenue contribution
+
+## Business Recommendations
+
+- Investigate the higher cancellation rate in the Spa department to identify scheduling, staffing, or service-related issues that may be affecting completed bookings.
+- Review Spa SLA performance and operational processes, since its SLA compliance is lower than the other departments.
+- Use high-demand services such as Hair Treatment to support staffing and scheduling decisions during periods of increased booking activity.
+- Give additional attention to high-revenue services such as Bridal Makeup because they make a significant contribution to overall revenue even without the highest booking volume.
+- Monitor monthly booking trends to anticipate periods of higher demand and adjust staffing and service capacity accordingly.
+- Continue tracking completion rate, cancellation rate, customer wait time, and SLA compliance to identify operational changes over time
