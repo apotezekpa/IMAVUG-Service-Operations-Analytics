@@ -59,3 +59,12 @@ The interactive Power BI dashboard provides an overview of booking activity, rev
 - Give additional attention to high-revenue services such as Bridal Makeup because they make a significant contribution to overall revenue even without the highest booking volume.
 - Monitor monthly booking trends to anticipate periods of higher demand and adjust staffing and service capacity accordingly.
 - Continue tracking completion rate, cancellation rate, customer wait time, and SLA compliance to identify operational changes over time
+
+## Project Workflow
+
+1. **Data Preparation** — Cleaned and prepared the service operations dataset for analysis.
+2. **Excel Analysis** — Performed descriptive statistics, exploratory analysis, correlation analysis, and bivariate analysis.
+3. **Power BI Analysis** — Built DAX measures and an interactive dashboard to analyze bookings, revenue, completion rates, cancellations, customer wait times, and SLA performance.
+4. **SQL Analysis** — Coming next.
+5. **Automation** — Planned.
+6. **Machine Learning** — Planned as an advanced extension of the project
