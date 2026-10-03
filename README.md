@@ -39,7 +39,7 @@ The analysis was designed to answer the following questions:
 
 The interactive Power BI dashboard provides an overview of booking activity, revenue, operational performance, and SLA compliance across IMAVUG services and departments.
 
-![IMAVUG Power BI Dashboard](IMAVUG_PowerBI_Dashboard.png)
+![IMAVUG Power BI Dashboard](power-bi/IMAVUG_PowerBI_Dashboard.png)
 
 ## Key Findings
 
