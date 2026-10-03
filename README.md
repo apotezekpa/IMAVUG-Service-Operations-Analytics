@@ -34,3 +34,9 @@ The analysis was designed to answer the following questions:
 - Interactive dashboard design
 - Slicers and cross-filtering
 - Operational and revenue analysis
+
+## Power BI Dashboard
+
+The interactive Power BI dashboard provides an overview of booking activity, revenue, operational performance, and SLA compliance across IMAVUG services and departments.
+
+![IMAVUG Power BI Dashboard](IMAVUG_PowerBI_Dashboard.png)
